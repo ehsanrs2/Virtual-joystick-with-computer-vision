@@ -1,4 +1,4 @@
-# Virtual joystick with computer vision
+# Virtual joystick with computer vision (OpenCV)
 ## Overview
 Virtual joystick with computer vision is an open-source project that simulates a joystick by moving a hand and it can be used to play racing games. 
 
